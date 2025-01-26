@@ -3,6 +3,9 @@ nav:
   - Home: index.md
   - EX00: tutorials/go-setup.md
 theme:
+  palette:
+    scheme: slate
+    primary: amber
   features:
     - content.code.copy
     - content.code.annotate
@@ -17,6 +20,6 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - admonitions
+  - admonition
   - pymdownx.details
   - pymdownx.superfences
