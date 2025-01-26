@@ -1,7 +1,7 @@
 site_name: COMP423 Course Notes
 nav:
   - Home: index.md
-  - EX00: tutorials/go-setup.md
+  - Go Dev Container Tutorial: tutorials/go-setup.md
 theme:
   palette:
     scheme: slate
